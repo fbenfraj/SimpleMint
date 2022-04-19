@@ -1,0 +1,2 @@
+# SimpleMint
+Simple NFT contract
